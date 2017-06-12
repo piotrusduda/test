@@ -1,4 +1,4 @@
 <?php
 
-echo phpinfo();
-exit;
+echo 1;
+die();
