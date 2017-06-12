@@ -1,5 +1,5 @@
 <?php
 
 var_dump($_SERVER);
-echo 1;
+echo 2;
 exit;
