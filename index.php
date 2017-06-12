@@ -1,7 +1,6 @@
 <?php
 
 var_dump($_SERVER);
-echo 3;
-echo '<pre>';
-echo '</pre>';
+echo 2;
+echo 'test1';
 exit;
