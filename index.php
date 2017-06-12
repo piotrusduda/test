@@ -1,4 +1,3 @@
 <?php
 
-echo phpinfo();
-exit;
+var_dump($_SERVER);
